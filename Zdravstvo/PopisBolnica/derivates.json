@@ -1,0 +1,14 @@
+{
+	"derivates": [
+		{
+			"id": "hzzo2_csv",
+			"source": "hzzo2",
+			"fname": "adresar-bolnica.csv"
+		},
+		{
+			"id": "hzzo2_md",
+			"source": "hzzo2",
+			"fname": "adresar-bolnica.md"
+		}
+	]
+}

@@ -1,0 +1,58 @@
+{
+	"sources": [
+		{
+			"id": "hzzo1",
+			"web": "https://www.hzzo.hr/zdravstveni-sustav-rh/zdravstvena-zastita-pokrivena-obveznim-zdravstvenim-osiguranjem/adresar-zdravstvenih-ustanovaprivatnih-praksi/",
+			"link": "https://www.hzzo.hr/wp-content/uploads/2019/05/adresar-bolnica.xls",
+			"grade": 6,
+			"note": "kolone C-G skrivene :), dosta toga CAPITAL CASE",
+			"columns": [
+				"RB",
+				"Ustanova",
+				"Pošta",
+				"Mjesto",
+				"Adresa",
+				"Telefon - centrala",
+				"Fax ustanove",
+				"Ravnatelj"
+			],
+			"cnt": 63
+		},
+		{
+			"id": "hzzo2",
+			"web": "https://www.hzzo.hr/zdravstveni-sustav-rh/zdravstvena-zastita-pokrivena-obveznim-zdravstvenim-osiguranjem/ugovoreni-sadrzaji-zdravstvene-zastite-u-rh/",
+			"link": "https://www.hzzo.hr/wp-content/uploads/2019/04/adresar-bolnica.xls",
+			"grade": 7,
+			"note": "isto kao hzzo1, ali kolone nisu skrivene, da nije bilo ovog ne bi ni skužio da su u hzzo1 skrivene kolone",
+			"columns": [
+				"RB",
+				"Ustanova",
+				"Pošta",
+				"Mjesto",
+				"Adresa",
+				"Telefon - centrala",
+				"Fax ustanove",
+				"Ravnatelj"
+			],
+			"cnt": 63
+		},
+		{
+			"id": "data_gov_hr",
+			"web": "https://data.gov.hr/dataset/adresar-zdravstvenih-ustanova-privatnih-praksi",
+			"link": "http://www.hzzo.hr/wp-content/uploads/2013/10/adresar-bolnica-1.xls",
+			"grade": 5,
+			"note": "link na stare hzzo podatke, dodao čisto da imamo pregled svih poznatih destinacija u državnoj upravi",
+			"columns": [
+				"RB",
+				"Ustanova",
+				"Pošta",
+				"Mjesto",
+				"Adresa",
+				"Telefon - centrala",
+				"Fax ustanove",
+				"Sanacijski upravitelj /ravnatelj"
+			],
+			"cnt": 61
+		}
+	]
+}
